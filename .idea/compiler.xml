@@ -9,5 +9,8 @@
         <module name="dakku-lib" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dakku-lib" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
