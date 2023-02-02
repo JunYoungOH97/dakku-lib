@@ -6,7 +6,7 @@
 
     <groupId>com.github.JunYoungOH97</groupId>
     <artifactId>dakku-lib</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.4</version>
 
     <dependencies>
         <dependency>
